@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Redux and Redux Toolkit Testing Playground
+
+### A simple setup to test and experiment with Redux and Redux Toolkit features. Write, run, and debug reducers, actions, and middleware in an isolated environment.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
